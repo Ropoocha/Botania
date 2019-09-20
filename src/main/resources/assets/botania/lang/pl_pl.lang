@@ -218,61 +218,61 @@ botania.rank4=&dS
 botania.rank5=&6SS
 
 # ZODIAC SIGNS
-botania.sign0=Aries
-botania.sign1=Taurus
-botania.sign2=Gemini
-botania.sign3=Cancer
-botania.sign4=Leo
-botania.sign5=Virgo
-botania.sign6=Libra
-botania.sign7=Scorpio
-botania.sign8=Sagittarius
-botania.sign9=Capricorn
-botania.sign10=Aquarius
-botania.sign11=Pisces
+botania.sign0=Baran
+botania.sign1=Byk
+botania.sign2=Bliźnięta
+botania.sign3=Rak
+botania.sign4=Lew
+botania.sign5=Panna
+botania.sign6=Waga
+botania.sign7=Skorpion
+botania.sign8=Strzelec
+botania.sign9=Koziorożec
+botania.sign10=Wodnik
+botania.sign11=Ryby
 
 # WINGS
-botania.wings0=No Wings
-botania.wings1=Wings: Flügel
-botania.wings2=Wings: One-Winged Angel
-botania.wings3=Wings: Ice Fairy
-botania.wings4=Wings: Phoenix
-botania.wings5=Wings: Black Snow Princess
-botania.wings6=Wings: Lord of the Pit
-botania.wings7=Wings: Sylph
-botania.wings8=Wings: Mega Ultra Chicken
-botania.wings9=Wings: The One
+botania.wings0=Bez skrzydeł
+botania.wings1=Skrzydła: Flügel
+botania.wings2=Skrzydła: Jednoskrzydły anioł
+botania.wings3=Skrzydła: Lodowa wróżka
+botania.wings4=Skrzydła: Feniks
+botania.wings5=Skrzydła: Księżniczka czarnego śniegu
+botania.wings6=Skrzydła: Władca piekieł
+botania.wings7=Skrzydła: Sylf
+botania.wings8=Skrzydła: Mega-Ultra-Kurczak
+botania.wings9=Skrzydła: Wybraniec
 
 # TORCH MODES
-botania.animatedTorch.toggle=Toggle
-botania.animatedTorch.rotate=Rotate
-botania.animatedTorch.random=Random
+botania.animatedTorch.toggle=Przełączanie
+botania.animatedTorch.rotate=Obrót
+botania.animatedTorch.random=Losowo
 
 # ARMOR SETS
-botania.armorset.manasteel.name=Mana Affinity
-botania.armorset.manasteel.desc=10%% less Mana cost on Mana Tools and Rods
-botania.armorset.elementium.name=Great Fairy's Blessing
-botania.armorset.elementium.desc=Chance for pixies to apply potion effects
-botania.armorset.terrasteel.name=Will of the Ancients
-botania.armorset.terrasteel.desc0=20%% less Mana cost on Mana Tools and Rods
-botania.armorset.terrasteel.desc1=Regen even if hunger isn't topped off
-botania.armorset.terrasteel.desc2=Passive Mana generation on Mana Tablets
-botania.armorset.manaweave.name=Manatide Prowess
-botania.armorset.manaweave.desc0=35%% less Mana cost on Mana Tools and Rods
-botania.armorset.manaweave.desc1=Increased proficiency with Magical Rods
+botania.armorset.manasteel.name=Bliskość many
+botania.armorset.manasteel.desc=Redukcja kosztów many dla narzędzi i różdzek: 10%%
+botania.armorset.elementium.name=Błogosławieństwo Wspaniałej Wróżki
+botania.armorset.elementium.desc=Szansa, aby wróżki nakładały efekty mikstur
+botania.armorset.terrasteel.name=Wola Starożytnych
+botania.armorset.terrasteel.desc0=Redukcja kosztów many dla narzędzi i różdzek: 20%%
+botania.armorset.terrasteel.desc1=Regeneracja zdrowia nawet bez pełnego najedzenia
+botania.armorset.terrasteel.desc2=Pasywna generacja many dla tabletów many
+botania.armorset.manaweave.name=Pzypływ many
+botania.armorset.manaweave.desc0=Redukcja kosztów many dla narzędzi i różdzek: 35%%
+botania.armorset.manaweave.desc1=Zwiększona biegłość w posługiwaniu się maagicznymi różdzkami
 
-botania.armorset.will0.desc=Critical Hits apply a strong weakness effect (Will of Ahrim)
-botania.armorset.will1.desc=Critical Hit damage increases with lower HP (Will of Dharok)
-botania.armorset.will2.desc=Critical Hits heal for a portion of damage dealt (Will of Guthan)
-botania.armorset.will3.desc=Critical Hits apply a strong slowness effect (Will of Torag)
-botania.armorset.will4.desc=Critical Hits pierce through armor (Will of Verac)
-botania.armorset.will5.desc=Critical Hits apply a wither effect (Will of Karil)
-botania.armorset.will0.shortDesc=Critical Hits apply a strong weakness effect
-botania.armorset.will1.shortDesc=Critical Hit damage increases with lower HP
-botania.armorset.will2.shortDesc=Critical Hits heal for a portion of damage dealt
-botania.armorset.will3.shortDesc=Critical Hits apply a strong slowness effect
-botania.armorset.will4.shortDesc=Critical Hits pierce through armor
-botania.armorset.will5.shortDesc=Critical Hits apply a wither effect
+botania.armorset.will0.desc=Uderzenia krytyczne nakładają silny efekt osłabienia (Wola Ahrima)
+botania.armorset.will1.desc=Moc uderzeń krytycznych zwiększa się wraz ze spadkiem punktów życia (Wola Dharoka)
+botania.armorset.will2.desc=Uderzenia krytyczne leczą za część zadanych obrażeń (Wola Guthana)
+botania.armorset.will3.desc=Uderzenia krytyczne nakładają silny efekt spowolnienia (Wola Toraga)
+botania.armorset.will4.desc=Uderzenia krytyczne przebijają się przez zbroję (Wola Veraca)
+botania.armorset.will5.desc=Uderzenia krytyczne nakładają efekt obumarcia (Wola Karila)
+botania.armorset.will0.shortDesc=Uderzenia krytyczne nakładają silny efekt osłabienia
+botania.armorset.will1.shortDesc=Moc uderzeń krytycznych zwiększa się wraz ze spadkiem punktów życia
+botania.armorset.will2.shortDesc=Uderzenia krytyczne leczą za część zadanych obrażeń
+botania.armorset.will3.shortDesc=Uderzenia krytyczne nakładają silny efekt spowolnienia
+botania.armorset.will4.shortDesc=Uderzenia krytyczne przebijają się przez zbroję
+botania.armorset.will5.shortDesc=Uderzenia krytyczne nakładają efekt obumarcia
 
 # ROMAN NUMERALS
 botania.roman0=
@@ -308,9 +308,9 @@ botania.roman29=XXIX
 botania.roman30=XXX
 
 # KNOWLEDGE
-botania.knowledge.minecraft=Minecraftian Knowledge
-botania.knowledge.alfheim=&aElven&7 Knowledge
-botania.knowledge.relic=&5Relic&7 Knowledge
+botania.knowledge.minecraft=Wiedza Ludzi
+botania.knowledge.alfheim=Wiedza &aElfów&7
+botania.knowledge.relic=Wiedza o &5Reliktach&7
 
 # FLOWER TYPES
 botania.flowerType.passiveGenerating=Passive Generating Flower
